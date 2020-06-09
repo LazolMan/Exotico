@@ -656,7 +656,7 @@ section.shop_slider .shop_carusel .item a.item_button i {
 section.experience_box .content_box {
   min-height: 515px;
   width: 100%;
-  background: url(/images/additional/bg.jpg) center center no-repeat;
+  background: url(../images/additional/bg.jpg) center center no-repeat;
   background-size: cover;
   display: flex;
   justify-content: center;
@@ -991,15 +991,15 @@ section.adds_box .three_boxes .item .adds_link {
   text-transform: uppercase;
 }
 section.adds_box .three_boxes .item.item-1 {
-  background: url("/images/additional/bottom1.jpg") no-repeat center;
+  background: url("../images/additional/bottom1.jpg") no-repeat center;
   box-shadow: 0 45px 50px -35px rgba(255, 116, 43, 0.65);
 }
 section.adds_box .three_boxes .item.item-2 {
-  background: url("/images/additional/bottom2.jpg") no-repeat center;
+  background: url("../images/additional/bottom2.jpg") no-repeat center;
   box-shadow: 0 45px 50px -35px rgba(75, 163, 33, 0.65);
 }
 section.adds_box .three_boxes .item.item-3 {
-  background: url("/images/additional/bottom3.jpg") no-repeat center;
+  background: url("../images/additional/bottom3.jpg") no-repeat center;
   box-shadow: 0 45px 50px -35px rgba(218, 45, 80, 0.65);
 }
 footer .footer_container {
@@ -1247,13 +1247,13 @@ footer .footer_container .twitter_box .tweet_slider .content_slider_twitter .tim
     line-height: 20px;
   }
   section.adds_box .three_boxes .item.item-1 {
-    background: url(/images/additional/bottom1.jpg) no-repeat center right;
+    background: url(../images/additional/bottom1.jpg) no-repeat center right;
   }
   section.adds_box .three_boxes .item.item-2 {
-    background: url(/images/additional/bottom2.jpg) no-repeat center right;
+    background: url(../images/additional/bottom2.jpg) no-repeat center right;
   }
   section.adds_box .three_boxes .item.item-3 {
-    background: url(/images/additional/bottom3.jpg) no-repeat center right;
+    background: url(../images/additional/bottom3.jpg) no-repeat center right;
   }
   footer .footer_container {
     flex-wrap: wrap-reverse;
